@@ -1,0 +1,10 @@
+C:\Users\nicol\source\repos\esercizio_stackqueue\bin\Debug\esercizio_stackqueue.exe.config
+C:\Users\nicol\source\repos\esercizio_stackqueue\bin\Debug\esercizio_stackqueue.exe
+C:\Users\nicol\source\repos\esercizio_stackqueue\bin\Debug\esercizio_stackqueue.pdb
+C:\Users\nicol\source\repos\esercizio_stackqueue\obj\Debug\esercizio_stackqueue.csproj.AssemblyReference.cache
+C:\Users\nicol\source\repos\esercizio_stackqueue\obj\Debug\esercizio_stackqueue.Form1.resources
+C:\Users\nicol\source\repos\esercizio_stackqueue\obj\Debug\esercizio_stackqueue.Properties.Resources.resources
+C:\Users\nicol\source\repos\esercizio_stackqueue\obj\Debug\esercizio_stackqueue.csproj.GenerateResource.cache
+C:\Users\nicol\source\repos\esercizio_stackqueue\obj\Debug\esercizio_stackqueue.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\esercizio_stackqueue\obj\Debug\esercizio_stackqueue.exe
+C:\Users\nicol\source\repos\esercizio_stackqueue\obj\Debug\esercizio_stackqueue.pdb
